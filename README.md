@@ -124,7 +124,6 @@ sns.lineplot(x='timestamp', y='quote.USD.price', data = df10)
 
 This notebook provides a basic framework for retrieving, processing, and visualizing cryptocurrency data from the CoinMarketCap API. It automates data collection and offers visual insights into market trends.
 
-![Cryptocurrency Analysis](https://www.investopedia.com/thmb/5o5YfhTSsZZHc4DoSM5ZadMg_XI=/640x360/filters:fill(auto,1)/cryptocurrency_trading101-5bfc6d6ac9e77c0051068f9a.jpg)
 
 ### Technologies Used
 - Python
@@ -133,5 +132,3 @@ This notebook provides a basic framework for retrieving, processing, and visuali
 - Requests
 - Seaborn
 - Matplotlib
-
-Feel free to explore the code and customize it for your needs!
